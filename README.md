@@ -1,35 +1,19 @@
 # pixelArt
 
-This template should help get you started developing with Vue 3 in Vite.
+Pixel Art is a coding project to allow you to create beautiful pixel Art designs.
 
-## Recommended IDE Setup
+## Create your art
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+You have a 6x6 grid, click on any pixel to change its color and create art.
 
-## Customize configuration
+## Change your palette
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+You have a few palettes available, you can change them clicking on the circle on the left.
 
-## Project Setup
+## Get inspired !
+https://manufacturedupixel.com/wall-e-pixel-art
+https://www.pixilart.com/gallery
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
+This project was created in Vue.
